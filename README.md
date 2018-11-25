@@ -84,5 +84,5 @@
  
  -------------------------
  
- After This one can checkout some [Advanced Topics](https://github.com/rishabh1911/Interview-Questions/blob/master/AdvancedQuestion.md).
+ After this, one can checkout some [Advanced Topics](https://github.com/rishabh1911/Interview-Questions/blob/master/AdvancedQuestion.md).
  
