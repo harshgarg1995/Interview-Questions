@@ -70,3 +70,10 @@
  - [Huffman Coding problem](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
  - [Fractional Knapsack problem](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
  - [Minimum number of coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)
+ 
+ 
+ ### Some topics of OOPS to check
+ - [Just in Time Compiler](https://www.youtube.com/watch?v=yQ27DjKnxwo&t=3s).
+ - Object oriented vs Object Based Programming Language.
+ - Tailed Recursion, [Tail Call Optimisation](https://stackoverflow.com/questions/53354898/tail-call-optimisation-in-java).
+ 
