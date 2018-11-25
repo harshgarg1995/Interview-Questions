@@ -78,3 +78,11 @@
  - Object oriented vs Object Based Programming Language.
  - Tailed Recursion, [Tail Call Optimisation](https://stackoverflow.com/questions/53354898/tail-call-optimisation-in-java).
  
+ 
+ 
+ 
+ 
+ -------------------------
+ 
+ After This one can checkout some [Advanced Topics](https://github.com/rishabh1911/Interview-Questions/blob/master/AdvancedQuestion.md).
+ 
