@@ -49,13 +49,13 @@
 - DFS
 - BFS
 - Minimum Spanning Tree Algo's
----  Prim's Algo
---- Kruskal Algo
+  - Prim's Algo
+  - Kruskal Algo
 - K Clustering Problem
 - Shortest Path between two nodes
---- Dijkstra's Algo
+  - Dijkstra's Algo
 - Shortest Path Between all points
---- Floys-Warshall Algo
+  - Floys-Warshall Algo
 - Detect cycle in a directed graph
 - Topological Sort
 
