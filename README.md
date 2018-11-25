@@ -26,8 +26,8 @@
  - Modular Arithmetics
  - Multiplicative Inverse
  - Shuffling Algorithm 
-  - 0(nlogn) solution
-  - Knuth Shuffle
+    - 0(nlogn) solution
+    - Knuth Shuffle
  - Kadane's algo for Largest Sum Contiguous array
  - [Sprague Grundy Theorem](https://www.youtube.com/watch?v=GRlGknQEOW8)
  
