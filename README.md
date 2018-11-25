@@ -29,7 +29,7 @@
  --- 0(nlogn) solution
  --- Knuth Shuffle
  - Kadane's algo for Largest Sum Contiguous array
- - Sprague Grundy Theorem
+ - [Sprague Grundy Theorem](https://www.youtube.com/watch?v=GRlGknQEOW8)
  
 ### Important DP Questions
   - Rod cutting Problem
