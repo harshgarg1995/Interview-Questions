@@ -47,6 +47,9 @@
 
 ### Important Graph Algos
 - DFS
+  - Number of Connected Components
+  - Strongly Connected Graph
+  - [Number of Islands.](https://www.geeksforgeeks.org/find-number-of-islands/)
 - BFS
 - Minimum Spanning Tree Algo's
   - Prim's Algo
@@ -56,6 +59,7 @@
   - Dijkstra's Algo
 - Shortest Path Between all points
   - Floys-Warshall Algo
+  - [Transitive Clousure of a Graph](https://www.geeksforgeeks.org/transitive-closure-of-a-graph/)
 - Detect cycle in a directed graph
 - Topological Sort
 
