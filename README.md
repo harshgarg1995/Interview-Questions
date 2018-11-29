@@ -50,6 +50,7 @@
   - Number of Connected Components
   - Strongly Connected Graph
   - [Number of Islands.](https://www.geeksforgeeks.org/find-number-of-islands/)
+  - Print all paths from src to dest in a graph.
 - BFS
 - Minimum Spanning Tree Algo's
   - Prim's Algo
