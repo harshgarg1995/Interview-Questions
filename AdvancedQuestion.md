@@ -7,6 +7,7 @@
 * [Heavy Light Decomposition](https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/)
 * [MO's Algorithm](https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/)
 * [Square Root Decomposition of a tree](https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/)
+* [Fast Fourier Transform](https://www.geeksforgeeks.org/fast-fourier-transformation-poynomial-multiplication/)
 
 #### [Game Theory](https://www.geeksforgeeks.org/game-theory/)
 * [Introduction](https://www.geeksforgeeks.org/introduction-to-combinatorial-game-theory/)
