@@ -64,7 +64,7 @@
   - [Transitive Clousure of a Graph](https://www.geeksforgeeks.org/transitive-closure-of-a-graph/)
 - Detect cycle in a directed graph
 - Topological Sort
-_ Vertex Cover
+- Vertex Cover
   - [Vertex cover of a tree](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/)
 
 ### Important Advanced Data Structures
