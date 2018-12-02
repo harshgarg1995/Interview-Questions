@@ -5,6 +5,7 @@
 
 * [Centroid decomposition of tree](https://www.geeksforgeeks.org/centroid-decomposition-of-tree/)
 * [Heavy Light Decomposition](https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/)
+  * [Good Blog on Heavy Light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/)
 * [MO's Algorithm](https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/)
 * [Square Root Decomposition of a tree](https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/)
 * [Fast Fourier Transform](https://www.geeksforgeeks.org/fast-fourier-transformation-poynomial-multiplication/)
