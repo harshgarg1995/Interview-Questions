@@ -71,6 +71,8 @@
 
 - [Union Find](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
 - [Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
+  - [Range Minimum Query](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/SegmentTree.cpp)
+  - [XOR Sum]()
 - Fenwick Tree or Binary Indexed Tree
 
 ### Questions on Greedy Algo
