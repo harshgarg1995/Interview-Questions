@@ -69,8 +69,8 @@
 
 ### Important Advanced Data Structures
 
-- Union Find
-- Segment Tree
+- [Union Find](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
+- [Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
 - Fenwick Tree or Binary Indexed Tree
 
 ### Questions on Greedy Algo
