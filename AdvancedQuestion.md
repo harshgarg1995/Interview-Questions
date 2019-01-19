@@ -9,6 +9,10 @@
 * [MO's Algorithm](https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/)
 * [Square Root Decomposition of a tree](https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/)
 * [Fast Fourier Transform](https://www.geeksforgeeks.org/fast-fourier-transformation-poynomial-multiplication/)
+* DP on trees 
+  * [Type A](https://www.youtube.com/watch?v=gm4Ye0fESpU&index=2&list=PLfBJlB6T2eOsET4tlfcLs7oXR7kCyt1xc&t=0s)
+  * [Type B | In-Out DP](https://www.youtube.com/watch?v=Xng1Od_v6Ug&index=3&list=PLfBJlB6T2eOsET4tlfcLs7oXR7kCyt1xc&t=181s)
+  * [Type C | Binary Lifting](https://www.youtube.com/watch?v=kOfa6t8WnbI)
 
 #### [Game Theory](https://www.geeksforgeeks.org/game-theory/)
 * [Introduction](https://www.geeksforgeeks.org/introduction-to-combinatorial-game-theory/)
