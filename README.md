@@ -15,6 +15,7 @@
   - [Largest number in BST which is less than or equal to N](https://www.geeksforgeeks.org/largest-number-bst-less-equal-n/)
   - [kth  smallest in an array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/?ref=bookmark)
   - [Square root of a number](https://www.interviewbit.com/problems/square-root-of-integer/)
+  - [Check given binary tree is BST or not](https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
   - [conversion of Sorted Doubly Linked List to Balanced BST](https://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
  
 
