@@ -17,7 +17,8 @@
   - [Square root of a number](https://www.interviewbit.com/problems/square-root-of-integer/)
   - [Check given binary tree is BST or not](https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
   - [conversion of Sorted Doubly Linked List to Balanced BST](https://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
-  - [number of subarrays with sum equal to k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/)
+  - [Number of subarrays with sum equal to k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/)
+  - [Sorting a Linked List](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
   - In a binary tree, find number of paths which sum to k. The path does not need to start or end at the root or a leaf.
       - Solution: see CTCI pg 210
  
