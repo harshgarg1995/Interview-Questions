@@ -21,6 +21,7 @@
   - [Sorting a Linked List](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
   - In a binary tree, find number of paths which sum to k. The path does not need to start or end at the root or a leaf.
       - Solution: see CTCI pg 210
+  - [Number of Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/)
  
 
 ### Some other useful Links!
