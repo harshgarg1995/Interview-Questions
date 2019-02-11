@@ -22,6 +22,7 @@
   - In a binary tree, find number of paths which sum to k. The path does not need to start or end at the root or a leaf.
       - Solution: see CTCI pg 210
   - [Number of Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/)
+  - [Max Path Sum in a binary Tree](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
  
 
 ### Some other useful Links!
