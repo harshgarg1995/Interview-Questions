@@ -23,7 +23,7 @@
       - Solution: see CTCI pg 210
   - [Number of Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/)
   - [Max Path Sum in a binary Tree](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
-  - [Max Area under a Histogram](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
+  - [Max Area under a Histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
  
 
 ### Some other useful Links!
