@@ -24,7 +24,8 @@
   - [Number of Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/)
   - [Max Path Sum in a binary Tree](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
   - [Max Area under a Histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
-  - [Minimum time required to produce m items](https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/)
+  - [Minimum time required to produce m items](https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/) 
+      - Time Complexity is O( nLog( m*max(a[i]) ) )
  
 
 ### Some other useful Links!
