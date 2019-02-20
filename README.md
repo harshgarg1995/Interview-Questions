@@ -26,6 +26,7 @@
   - [Max Area under a Histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
   - [Minimum time required to produce m items](https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/) 
       - Time Complexity is O( nLog( m*max(a[i]) ) )
+  - [Find nth Magic number](https://www.geeksforgeeks.org/find-nth-magic-number/)
  
 
 ### Some other useful Links!
