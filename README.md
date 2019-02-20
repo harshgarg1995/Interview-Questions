@@ -64,6 +64,7 @@
   - [Number of Islands.](https://www.geeksforgeeks.org/find-number-of-islands/)
   - Print all paths from src to dest in a graph.
 - BFS
+  - Graph is Bipartite or not
 - Minimum Spanning Tree Algo's
   - Prim's Algo
   - Kruskal Algo
