@@ -78,6 +78,8 @@
 - Topological Sort
 - Vertex Cover
   - [Vertex cover of a tree](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/)
+- A* Algorithm
+- Disadvanteges/advantages comparision of DFS/BFS
 
 ### Important Advanced Data Structures
 
