@@ -12,17 +12,13 @@
   - [Number of triplets in AP in array](https://www.geeksforgeeks.org/print-triplets-sorted-array-form-ap/)
   - [Maximum profit in stock market](https://www.geeksforgeeks.org/stock-buy-sell/)
   - [Ugly Numbers](https://www.geeksforgeeks.org/ugly-numbers/)
-  - [Largest number in BST which is less than or equal to N](https://www.geeksforgeeks.org/largest-number-bst-less-equal-n/)
   - [kth  smallest in an array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/?ref=bookmark)
   - [Square root of a number](https://www.interviewbit.com/problems/square-root-of-integer/)
-  - [Check given binary tree is BST or not](https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
-  - [conversion of Sorted Doubly Linked List to Balanced BST](https://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
   - [Number of subarrays with sum equal to k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/)
   - [Sorting a Linked List](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
   - In a binary tree, find number of paths which sum to k. The path does not need to start or end at the root or a leaf.
       - Solution: see CTCI pg 210
   - [Number of Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/)
-  - [Max Path Sum in a binary Tree](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
   - [Max Area under a Histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
   - [Minimum time required to produce m items](https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/) 
       - Time Complexity is O( nLog( m*max(a[i]) ) )
@@ -32,6 +28,16 @@
 ### Some other useful Links!
 
   - [Analysis Puzzles](https://www.analyticsvidhya.com/blog/2016/07/20-challenging-job-interview-puzzles-which-every-analyst-solve-atleast/) 
+
+### Binary Tree Questions
+- [Largest number in BST which is less than or equal to N](https://www.geeksforgeeks.org/largest-number-bst-less-equal-n/)
+- [Check given binary tree is BST or not](https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
+- [conversion of Sorted Doubly Linked List to Balanced BST](https://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
+- [Max Path Sum in a binary Tree](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
+- [kth Largest Element in A BST](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/KthSmallestInBST.java)
+- [LCA of two nodes in Binary Tree](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/LCA.java)
+- [Connect Nodes at Same Level using O(1) extra space](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/ConnectNodesAtSameLevel.java)
+
   
 ### Important Algos
  - Modular Inverse
