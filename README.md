@@ -34,9 +34,14 @@
 - [Check given binary tree is BST or not](https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
 - [conversion of Sorted Doubly Linked List to Balanced BST](https://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
 - [Max Path Sum in a binary Tree](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
-- [kth Largest Element in A BST](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/KthSmallestInBST.java)
+- [kth Largest Element in a BST](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/KthSmallestInBST.java)
 - [LCA of two nodes in Binary Tree](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/LCA.java)
 - [Connect Nodes at Same Level using O(1) extra space](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/ConnectNodesAtSameLevel.java)
+
+### Order Statistics
+- [kth  smallest in an array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/?ref=bookmark)
+- [kth Largest Element in a BST](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/KthSmallestInBST.java)
+- [kth Largest Element in a stream](https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/)
 
   
 ### Important Algos
