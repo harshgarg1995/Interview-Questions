@@ -85,6 +85,9 @@
   - Print all paths from src to dest in a graph.
 - BFS
   - Graph is Bipartite or not
+   -[Smallest multiple with zero and one](https://www.geeksforgeeks.org/find-the-smallest-binary-digit-multiple-of-given-number/)
+  - [Stepping Numbers](https://www.interviewbit.com/problems/stepping-numbers/)
+  - [Diameter of a tree](https://www.geeksforgeeks.org/longest-path-undirected-tree/)
 - Minimum Spanning Tree Algo's
   - Prim's Algo
   - Kruskal Algo
@@ -96,6 +99,7 @@
   - [Transitive Clousure of a Graph](https://www.geeksforgeeks.org/transitive-closure-of-a-graph/)
 - Detect cycle in a directed graph
 - Topological Sort
+  - [Course Schedule](https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/)
 - Vertex Cover
   - [Vertex cover of a tree](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/)
 - A* Algorithm
