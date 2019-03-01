@@ -37,6 +37,7 @@
 - [kth Largest Element in a BST](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/KthSmallestInBST.java)
 - [LCA of two nodes in Binary Tree](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/LCA.java)
 - [Connect Nodes at Same Level using O(1) extra space](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/ConnectNodesAtSameLevel.java)
+- [Diameter of tree](https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/)
 
 ### Order Statistics
 - [kth  smallest in an array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/?ref=bookmark)
