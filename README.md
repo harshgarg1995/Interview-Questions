@@ -61,6 +61,7 @@
     - 0(nlogn) solution
     - Knuth Shuffle
  - Kadane's algo for Largest Sum Contiguous array
+    - [Max sum rectangle](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/)
  - [Sprague Grundy Theorem](https://www.youtube.com/watch?v=GRlGknQEOW8)
  
 ### Important DP Questions
@@ -85,7 +86,7 @@
   - Print all paths from src to dest in a graph.
 - BFS
   - Graph is Bipartite or not
-   -[Smallest multiple with zero and one](https://www.geeksforgeeks.org/find-the-smallest-binary-digit-multiple-of-given-number/)
+  -[Smallest multiple with zero and one](https://www.geeksforgeeks.org/find-the-smallest-binary-digit-multiple-of-given-number/)
   - [Stepping Numbers](https://www.interviewbit.com/problems/stepping-numbers/)
   - [Diameter of a tree](https://www.geeksforgeeks.org/longest-path-undirected-tree/)
 - Minimum Spanning Tree Algo's
