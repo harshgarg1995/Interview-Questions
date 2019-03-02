@@ -103,7 +103,7 @@
 - Detect cycle in a directed graph
 - Topological Sort
   - [Course Schedule](https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/)
-  - Similar to Course Schedule is deadlock detection. We can also use BFS for this by having 3 phases.-> visited, inProcess, unvisited. Deadlock is detected when inProcess requires an inProcess node.
+  - Similar to Course Schedule is deadlock detection. We use DFS for this and by having 3 phases.-> visited, inProcess, unvisited. Deadlock is detected when inProcess requires an inProcess node.
 - Vertex Cover
   - [Vertex cover of a tree](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/)
 - A* Algorithm
