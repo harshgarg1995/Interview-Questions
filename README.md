@@ -97,6 +97,7 @@
   - [Stepping Numbers](https://www.interviewbit.com/problems/stepping-numbers/)
   - [Diameter of a tree](https://www.geeksforgeeks.org/longest-path-undirected-tree/)
   - [Diameter of a tree when only links to parent given (V.Good Ques)](https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/)
+  - [Word Ladder -> Min steps to transform one string to another when only one character can change at a time and intermediary string can only be the ones that are present in given dictionary](https://www.interviewbit.com/problems/word-ladder-i/)
 - Minimum Spanning Tree Algo's
   - Prim's Algo
   - Kruskal Algo
