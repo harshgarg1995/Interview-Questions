@@ -40,6 +40,8 @@
 - [Diameter of Binary tree](https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/)
 
 ### Order Statistics
+- [Median in a stream of integers](https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/)
+- [kth largest in a heap in O(n) time.](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/advance/data/structure/Heap/Kth_Largest_in_Heap.java)
 - [kth  smallest in an array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/?ref=bookmark)
 - [kth Largest Element in a BST](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/KthSmallestInBST.java)
 - [kth Largest Element in a stream](https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/)
@@ -80,6 +82,10 @@
   - Matrix Chain Multiplication
 
 ### Important Graph Algos
+- Representation
+  - Adjajency Matrix 
+  - Adjajency List
+  - [Object and Pointers](https://www.interviewbit.com/problems/clone-graph/)
 - DFS
   - Number of Connected Components
   - Strongly Connected Graph
@@ -108,6 +114,9 @@
   - [Vertex cover of a tree](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/)
 - A* Algorithm
 - Disadvanteges/advantages comparision of DFS/BFS
+- [Euler tour of a tree](https://www.geeksforgeeks.org/euler-tour-tree/)
+- Bridges and Articulation points
+  - [Theory](https://www.youtube.com/watch?v=aZXi1unBdJA)
 
 ### Important Advanced Data Structures
 
