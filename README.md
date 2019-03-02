@@ -93,7 +93,7 @@
   - Print all paths from src to dest in a graph.
 - BFS
   - Graph is Bipartite or not
-  -[Smallest multiple with zero and one](https://www.geeksforgeeks.org/find-the-smallest-binary-digit-multiple-of-given-number/)
+  - [Smallest multiple with zero and one](https://www.geeksforgeeks.org/find-the-smallest-binary-digit-multiple-of-given-number/)
   - [Stepping Numbers](https://www.interviewbit.com/problems/stepping-numbers/)
   - [Diameter of a tree](https://www.geeksforgeeks.org/longest-path-undirected-tree/)
   - [Diameter of a tree when only links to parent given (V.Good Ques)](https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/)
