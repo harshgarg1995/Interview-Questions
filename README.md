@@ -20,6 +20,7 @@
       - Solution: see CTCI pg 210
   - [Number of Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/)
   - [Max Area under a Histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+    - [Max sum rectangle in O(mn)](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
   - [Minimum time required to produce m items](https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/) 
       - Time Complexity is O( nLog( m*max(a[i]) ) )
   - [Find nth Magic number](https://www.geeksforgeeks.org/find-nth-magic-number/)
@@ -65,6 +66,7 @@
     - Knuth Shuffle
  - Kadane's algo for Largest Sum Contiguous array
     - [Max sum rectangle](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/)
+    - [Max Sum rectangle in matrix of 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
  - [Sprague Grundy Theorem](https://www.youtube.com/watch?v=GRlGknQEOW8)
  
 ### Important DP Questions
