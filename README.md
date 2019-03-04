@@ -24,6 +24,7 @@
   - [Minimum time required to produce m items](https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/) 
       - Time Complexity is O( nLog( m*max(a[i]) ) )
   - [Find nth Magic number](https://www.geeksforgeeks.org/find-nth-magic-number/)
+  - [Way to form heap for given elements](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
  
 
 ### Some other useful Links!
