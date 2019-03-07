@@ -40,7 +40,7 @@
 - [LCA of two nodes in Binary Tree](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/LCA.java)
 - [Connect Nodes at Same Level using O(1) extra space](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/ConnectNodesAtSameLevel.java)
 - [Diameter of Binary tree](https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/)
-- [Fix a BST with 2 nodes swapped](https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/)
+- [Fix a BST with 2 nodes swapped (Similar to sorted array with 2 values swapped)](https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/)
 
 ### Order Statistics
 - [Median in a stream of integers](https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/)
