@@ -84,6 +84,7 @@
   - Longest common Substring
   - Optimal BST
   - Matrix Chain Multiplication
+  - [Regular Expression Match](https://www.interviewbit.com/problems/regular-expression-match/)
 
 ### Important Graph Algos
 - Representation
