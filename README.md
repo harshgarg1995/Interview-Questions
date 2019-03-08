@@ -25,6 +25,7 @@
       - Time Complexity is O( nLog( m*max(a[i]) ) )
   - [Find nth Magic number](https://www.geeksforgeeks.org/find-nth-magic-number/)
   - [Way to form heap for given elements](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+  - [Determine the actual order heights](http://qa.geeksforgeeks.org/3974/qa.geeksforgeeks.org/3974/determine-the-actual-order-heights-google.html)
  
 ### Linked List
 - [Find the starting Node of loop in linkedlist with cycle](https://www.interviewbit.com/problems/list-cycle/)
