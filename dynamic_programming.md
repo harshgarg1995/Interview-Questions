@@ -1,0 +1,14 @@
+# Important DP Questions
+  - Rod cutting Problem
+  - Longest Common Subsequence
+  - Coin Change Problem
+  - Longest Palindromic Sequence
+  - Bionomial Co-efficent
+  - Tiling Problem
+  - Zero-one Knapsack Problem
+  - Longest Increasing Subsequence
+  - Count all increasing Subsequences
+  - Longest common Substring
+  - Optimal BST
+  - Matrix Chain Multiplication
+  - [Regular Expression Match](https://www.interviewbit.com/problems/regular-expression-match/)
