@@ -1,0 +1,11 @@
+# Important Algos
+ - Modular Inverse
+ - Modular Arithmetics
+ - Multiplicative Inverse
+ - Shuffling Algorithm 
+    - 0(nlogn) solution
+    - Knuth Shuffle
+ - Kadane's algo for Largest Sum Contiguous array
+    - [Max sum rectangle](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/)
+    - [Max Sum rectangle in matrix of 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
+ - [Sprague Grundy Theorem](https://www.youtube.com/watch?v=GRlGknQEOW8)
