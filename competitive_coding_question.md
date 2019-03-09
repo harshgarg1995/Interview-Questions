@@ -1,0 +1,25 @@
+# Some Frequently asked Competitive coding question
+
+  - [Nut and Bolt Problem](https://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/)
+  - [Stock Span Problem](https://www.geeksforgeeks.org/the-stock-span-problem/)
+  - [Rain tapping Problem](https://www.geeksforgeeks.org/trapping-rain-water/)
+  - [Number of Platforms](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
+  - [Number of arrangement of N people of varying height such that at most K of them are visible](https://www.quora.com/What-is-the-number-of-arrangement-of-N-people-of-varying-height-such-that-at-most-K-of-them-are-visible-from-the-front-of-the-line)
+  - [Rotten oranges problem](https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/)
+  - [Number of triplets in AP in array](https://www.geeksforgeeks.org/print-triplets-sorted-array-form-ap/)
+  - [Maximum profit in stock market](https://www.geeksforgeeks.org/stock-buy-sell/)
+  - [Ugly Numbers](https://www.geeksforgeeks.org/ugly-numbers/)
+  - [kth  smallest in an array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/?ref=bookmark)
+  - [Square root of a number](https://www.interviewbit.com/problems/square-root-of-integer/)
+  - [Number of subarrays with sum equal to k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/)
+  - [Sorting a Linked List](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+  - In a binary tree, find number of paths which sum to k. The path does not need to start or end at the root or a leaf.
+      - Solution: see CTCI pg 210
+  - [Number of Inversions in an array](https://www.geeksforgeeks.org/counting-inversions/)
+  - [Max Area under a Histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+    - [Max sum rectangle in O(mn)](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
+  - [Minimum time required to produce m items](https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/) 
+      - Time Complexity is O( nLog( m*max(a[i]) ) )
+  - [Find nth Magic number](https://www.geeksforgeeks.org/find-nth-magic-number/)
+  - [Way to form heap for given elements](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+  - [Determine the actual order heights](http://qa.geeksforgeeks.org/3974/qa.geeksforgeeks.org/3974/determine-the-actual-order-heights-google.html)
