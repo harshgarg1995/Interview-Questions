@@ -2,19 +2,21 @@
 
 This is a comprehensive list of topics to revise before a coding interview.
 
-### [Some Frequently asked Competitive coding question](https://github.com/rishabh1911/Interview-Questions/blob/master/competitive_coding_question.md)
+ - [Some Frequently asked Competitive coding question](https://github.com/rishabh1911/Interview-Questions/blob/master/competitive_coding_question.md)
 
 
+## Data structure and Algorithms topic wise questions:
  
-### [Important Algorithms](https://github.com/rishabh1911/Interview-Questions/blob/master/important_algo.md)
-### [Linked List](https://github.com/rishabh1911/Interview-Questions/blob/master/linkedList.md)
-### [Stack and Queue](https://github.com/rishabh1911/Interview-Questions/blob/master/stack_and_queue.md)
-### [Binary Tree Questions](https://github.com/rishabh1911/Interview-Questions/blob/master/binaryTree.md)
-### [Order Statistics](https://github.com/rishabh1911/Interview-Questions/blob/master/order_statisics.md)
-### [Binary Search](https://github.com/rishabh1911/Interview-Questions/blob/master/binary_search.md)
-### [Graph](https://github.com/rishabh1911/Interview-Questions/blob/master/graph.md)
-### [Dynamic Programming](https://github.com/rishabh1911/Interview-Questions/blob/master/dynamic_programming.md)
-### [Greedy Algorithm](https://github.com/rishabh1911/Interview-Questions/blob/master/greedy.md)
+##### [Important Algorithms](https://github.com/rishabh1911/Interview-Questions/blob/master/important_algo.md)
+##### [Linked List](https://github.com/rishabh1911/Interview-Questions/blob/master/linkedList.md)
+##### [Stack and Queue](https://github.com/rishabh1911/Interview-Questions/blob/master/stack_and_queue.md)
+##### [Binary Tree Questions](https://github.com/rishabh1911/Interview-Questions/blob/master/binaryTree.md)
+##### [Order Statistics](https://github.com/rishabh1911/Interview-Questions/blob/master/order_statisics.md)
+##### [Binary Search](https://github.com/rishabh1911/Interview-Questions/blob/master/binary_search.md)
+##### [Greedy Algorithm](https://github.com/rishabh1911/Interview-Questions/blob/master/greedy.md)
+##### [Dynamic Programming](https://github.com/rishabh1911/Interview-Questions/blob/master/dynamic_programming.md)
+##### [Graph](https://github.com/rishabh1911/Interview-Questions/blob/master/graph.md)
+
 
 ### Important Advanced Data Structures
 
