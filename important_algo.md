@@ -1,4 +1,5 @@
 # Important Algos
+ - [Finding time Complexity using Recurrence Tree](https://www.youtube.com/watch?v=1K9ebQJosvo&t=0s&index=12&list=PLbF8-KW4HcngoybeU7b1U5cJk9dNVFp5v)
  - Modular Inverse
  - Modular Arithmetics
  - Multiplicative Inverse
