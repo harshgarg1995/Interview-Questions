@@ -34,6 +34,15 @@
 - [Two linked list intersect. find their intersection point](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
 - [k reverse linkedlist](https://www.interviewbit.com/problems/k-reverse-linked-list/)
 
+### Stack and Queue
+- [Largest Rectangular Area in a histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
+- [Max value of sliding window with size n](https://www.interviewbit.com/problems/sliding-window-maximum/)
+- [Simplify a Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)
+- [Find closest smaller number which occurs before a.get(i)](https://www.interviewbit.com/problems/nearest-smaller-element/)
+- [Evaluate a postFix expression](https://www.interviewbit.com/problems/evaluate-expression/)
+- [Rain Trapping problem](https://www.interviewbit.com/problems/rain-water-trapped/)
+- [Create an ADT stack which allows getMin in O(1) time](https://www.interviewbit.com/problems/min-stack/)
+
 ### Some other useful Links!
 
   - [Analysis Puzzles](https://www.analyticsvidhya.com/blog/2016/07/20-challenging-job-interview-puzzles-which-every-analyst-solve-atleast/) 
