@@ -24,3 +24,6 @@
   - [Way to form heap for given elements](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
   - [Determine the actual order heights](http://qa.geeksforgeeks.org/3974/qa.geeksforgeeks.org/3974/determine-the-actual-order-heights-google.html)
   - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
+  - [2 sum problem](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/)
+  - [3 sum problem](https://www.interviewbit.com/problems/3-sum/)
+  - 4 sum problem (meet in the middle + 2 sum problem)
