@@ -10,6 +10,7 @@ This is a comprehensive list of topics to revise before a coding interview.
 ##### [Important Algorithms](https://github.com/rishabh1911/Interview-Questions/blob/master/important_algo.md)
 ##### [Linked List](https://github.com/rishabh1911/Interview-Questions/blob/master/linkedList.md)
 ##### [Stack and Queue](https://github.com/rishabh1911/Interview-Questions/blob/master/stack_and_queue.md)
+##### [Heap](https://github.com/rishabh1911/Interview-Questions/blob/master/heap.md)
 ##### [Binary Tree Questions](https://github.com/rishabh1911/Interview-Questions/blob/master/binaryTree.md)
 ##### [Order Statistics](https://github.com/rishabh1911/Interview-Questions/blob/master/order_statisics.md)
 ##### [Binary Search](https://github.com/rishabh1911/Interview-Questions/blob/master/binary_search.md)
