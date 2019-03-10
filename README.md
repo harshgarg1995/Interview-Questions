@@ -26,6 +26,7 @@ This is a comprehensive list of topics to revise before a coding interview.
   - [Range Minimum Query](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/SegmentTree.cpp)
   - [Sum of a segment of Array](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
   - [XOR Sum](https://www.geeksforgeeks.org/segment-tree-xor-given-range/)
+- [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
 - Fenwick Tree or Binary Indexed Tree
  
  ### Some topics of OOPS to check
