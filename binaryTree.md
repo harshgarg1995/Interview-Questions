@@ -16,6 +16,7 @@
 - [kth smallest Element in a BST](https://github.com/rishabh1911/Coding-Practice/blob/master/src/main/java/practice/binary/tree/KthSmallestInBST.java)
 - [Ceil and Floor of a number in a BST]()
 - [Create a BST from inorder and preorder traversal data](https://www.interviewbit.com/courses/programming/topics/tree-data-structure/)
+- [Delete a node in BST](https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/)
 - [Fix a BST with 2 values swapped](https://www.interviewbit.com/problems/recover-binary-search-tree/)
 - [Create a BST from sorted doubly linkedlist](https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/)
 - [Flatten a BST to linkedList](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)
