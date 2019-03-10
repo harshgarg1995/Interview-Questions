@@ -2,6 +2,9 @@
 
  - Generate k smallest numbers of form (2^x)*(3^y)*(5^z).
  - Generate k smallest number of form  a+b(2^(0.5)).
+ - [Smallest multiple on a given number with only 0 or 1 as digits](https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/)
+ - [Smallest k elements which have only p1, p2 and p3 as prime factors](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)
+ - [Fina all stepping numbers between m and n](https://www.interviewbit.com/problems/stepping-numbers/)
  - [Given two arrays A & B of size N each.
 Find the maximum n elements from the sum combinations (Ai + Bj) formed from elements in array A and B.](https://www.interviewbit.com/problems/n-max-pair-combinations/)
  - [Number of ways to form max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
